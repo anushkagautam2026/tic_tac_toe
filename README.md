@@ -1,0 +1,1 @@
+Dive into the world of Tic Tac Toe, where classic gameplay meets vibrant innovation! Challenge a friend in Two-Player mode or face our cunning AI solo. With a burst of colors and strategic brilliance, every move is a stroke of genius. Redefine the way you play Tic Tac Toe—let the colorful battle begin!
